@@ -27,7 +27,7 @@ A simple React application that allows users to add products to a shopping cart,
 
 ### 1.Clone the Repository  
 
-git clone https://github.com/YOUR_USERNAME/shopping-cart.git
+git clone https://github.com/BabithaReddy7/shopping-cart.git
 cd shopping-cart
 
 ### 2.Install Dependencies 
